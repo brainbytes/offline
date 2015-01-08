@@ -306,4 +306,6 @@
 
   window.Offline = Offline;
 
+  module.exports = Offline;
+
 }).call(this);

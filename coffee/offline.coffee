@@ -250,3 +250,5 @@ init = ->
 setTimeout init, 0
 
 window.Offline = Offline
+
+module.exports = Offline
